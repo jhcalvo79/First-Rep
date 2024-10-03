@@ -1,2 +1,2 @@
 # First-Rep
-Student first repository
+Student first repository in hithub
